@@ -1,4 +1,3 @@
-package Loop0403;
 
 public class LoopForEx {
     public static void main(String[] args) {

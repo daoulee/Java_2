@@ -1,4 +1,4 @@
-package Loop0403;
+
 
 public class ForEachEx {
     public static void main(String[] args) {
