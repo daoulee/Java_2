@@ -431,4 +431,3 @@ public class AccessEx {
 }
 ```
 
-> ❌ `b`는 다른 클래스에서 접근 불가 (private)
