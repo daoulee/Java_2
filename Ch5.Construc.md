@@ -357,6 +357,7 @@ public class Calc {
 
 ---
 
+
 ## 1️⃣5️⃣ static 멤버 사용 방법
 
 - 클래스 이름으로 직접 접근
