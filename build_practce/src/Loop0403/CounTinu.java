@@ -1,4 +1,4 @@
-
+package Loop0403;
 import java.util.Scanner;
 
 public class CounTinu {
